@@ -56,6 +56,12 @@ If you have an idea for a new feature or improvement that you would like to see,
 
 *NOTE:* We reserve the right to reject any pull requests that do not meet this requirements. We will however feedback on why pull requests were rejected.
 
+<h3>Version Numbers</h3>
+
+Please do not bump the version number in VERSION.txt as there could well be other changes that are in progress or planned for release and your change might be in a later version.
+
+For this reason any PRs with a change to the VERSION.txt file will be rejected as a matter of course.
+
 <h3>Changelogs</h3>
 
 We use [caretaker](https://github.com/DevelopersToolbox/caretaker) to auto-generate all of our changelogs, so there is no need to update the CHANGELOG, in fact any changes will be automatically overwritten.
