@@ -9,7 +9,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 > Released on March, 2nd 2021
 
-- Add caveat around version numbering [`[head]`](https://github.com/WolfSoftware/contributing/commit/)
+- Update repo branding [`[head]`](https://github.com/WolfSoftware/contributing/commit/)
+
+- Add caveat around version numbering [`[3c59049]`](https://github.com/WolfSoftware/contributing/commit/3c59049d3c7bed08b4703c686ad0a932d81cf76c)
 
 ### [v1.0.0](https://github.com/WolfSoftware/contributing/releases/v1.0.0)
 
