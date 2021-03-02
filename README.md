@@ -76,7 +76,7 @@ For this reason any PRs with a change to the VERSION.txt file will be rejected a
 
 ### Changelogs
 
-We use [caretaker](https://github.com/DevelopersToolbox/caretaker) to auto-generate all of our changelogs, so there is no need to update the CHANGELOG, in fact any changes will be automatically overwritten.
+We use in house tools to auto-generate all of our changelogs, so there is no need to update the CHANGELOG, in fact any changes will be automatically overwritten.
 
 [1]: http://gun.io/blog/how-to-github-fork-branch-and-pull-request
 [2]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
